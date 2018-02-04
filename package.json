@@ -1,0 +1,19 @@
+{
+  "name": "eslint-plugin-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devsnek/eslint-plugin-node.git"
+  },
+  "author": "devsnek",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/devsnek/eslint-plugin-node/issues"
+  },
+  "homepage": "https://github.com/devsnek/eslint-plugin-node#readme"
+}
